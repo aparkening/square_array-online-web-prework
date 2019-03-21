@@ -1,6 +1,6 @@
 # Take an array, square each value, and return another array with the squared values
 def square_array(array)
-
+  new_array = [ ]
   array.
   
   
