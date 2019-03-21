@@ -4,7 +4,7 @@ def square_array(array)
   array.
   
   
-  array.each do
+  array.each do |array_value|
     
     puts "Taking out #{apple}"
     apples_taken_out += 1
