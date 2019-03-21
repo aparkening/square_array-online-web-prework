@@ -1,13 +1,9 @@
 # Take an array, square each value, and return another array with the squared values
 def square_array(array)
   new_array = [ ]
-  array.
-  
-  
   array.each do |array_value|
+    square_value = array_value ** 2
     
-    puts "Taking out #{apple}"
-    apples_taken_out += 1
   end
   
   **.e
