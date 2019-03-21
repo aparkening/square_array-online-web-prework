@@ -17,5 +17,5 @@ end
 =end
 
 # Test output
-# the_array = [3, 4, 5, 6, 10]
-# puts square_array(the_array)
+the_array = [3, 4, 5, 6, 10]
+puts square_array(the_array)
