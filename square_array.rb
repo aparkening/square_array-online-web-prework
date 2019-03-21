@@ -5,7 +5,7 @@ def square_array(array)
     square_value = array_value ** 2
     new_array << square_value
   end
-  # return new_array  
+  return new_array  
 end
 
 the_array = [1, 2, 3, 4, 5]
