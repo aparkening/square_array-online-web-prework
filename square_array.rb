@@ -5,6 +5,7 @@ end
 
 
 # Long form version. Take an array, square each value, and return another array with the squared values
+=begin
 def square_array(array)
   new_array = [ ]
   array.each do |array_value|
@@ -13,6 +14,7 @@ def square_array(array)
   end
   return new_array  
 end
+=end
 
 # Test output
 # the_array = [3, 4, 5, 6, 10]
